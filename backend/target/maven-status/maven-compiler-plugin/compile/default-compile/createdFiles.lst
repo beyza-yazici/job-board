@@ -1,2 +1,9 @@
-com\jobboard\JobboardApplication.class
+com\jobboard\entity\Candidate.class
 com\jobboard\config\SecurityConfig.class
+com\jobboard\entity\JobPosting.class
+com\jobboard\entity\Application.class
+com\jobboard\entity\Company.class
+com\jobboard\JobboardApplication.class
+com\jobboard\entity\User.class
+com\jobboard\entity\Application$ApplicationStatus.class
+com\jobboard\entity\User$Role.class
