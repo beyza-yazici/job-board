@@ -1,4 +1,5 @@
 com\jobboard\entity\Candidate.class
+com\jobboard\entity\JobPosting$PositionType.class
 com\jobboard\config\SecurityConfig.class
 com\jobboard\entity\JobPosting.class
 com\jobboard\entity\Application.class

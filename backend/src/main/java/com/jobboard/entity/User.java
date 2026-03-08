@@ -1,13 +1,18 @@
 package com.jobboard.entity;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "users")
+@Table(name = "users", indexes = {
+    @Index(columnList = "email", name = "idx_email")
+})
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -17,9 +22,13 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     
-    @Column(unique = true, nullable = false)
+    @Email(message = "Email should be valid")
+    @NotBlank(message = "Email is mandatory")
+    @Column(unique = true, nullable = false, length = 100)
     private String email;
     
+    @NotBlank(message = "Password is mandatory")
+    @Size(min = 8, message = "Password must be at least 8 characters long")
     @Column(nullable = false)
     private String password;
     
