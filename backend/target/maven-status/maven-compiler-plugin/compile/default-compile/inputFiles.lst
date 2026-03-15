@@ -5,3 +5,8 @@ C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobb
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\entity\JobPosting.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\entity\User.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\JobboardApplication.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\ApplicationRepository.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\CandidateRepository.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\CompanyRepository.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\JobPostingRepository.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\UserRepository.java
