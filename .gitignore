@@ -17,3 +17,6 @@ frontend/.env
 # IDE
 .vscode/
 .idea/
+
+# Environment Variables
+.env 
