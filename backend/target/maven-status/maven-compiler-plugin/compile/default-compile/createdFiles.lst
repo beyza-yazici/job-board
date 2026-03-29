@@ -1,5 +1,6 @@
 com\jobboard\entity\Candidate.class
 com\jobboard\entity\JobPosting$PositionType.class
+com\jobboard\service\UserService.class
 com\jobboard\config\SecurityConfig.class
 com\jobboard\entity\JobPosting.class
 com\jobboard\repository\JobPostingRepository.class
@@ -8,8 +9,12 @@ com\jobboard\repository\UserRepository.class
 com\jobboard\entity\Application$ApplicationStatus.class
 com\jobboard\entity\User$Role.class
 com\jobboard\repository\CandidateRepository.class
+com\jobboard\service\ApplicationService.class
+com\jobboard\service\CandidateService.class
 com\jobboard\entity\Application.class
 com\jobboard\repository\CompanyRepository.class
+com\jobboard\service\CompanyService.class
 com\jobboard\entity\Company.class
 com\jobboard\JobboardApplication.class
 com\jobboard\entity\User.class
+com\jobboard\service\JobPostingService.class
