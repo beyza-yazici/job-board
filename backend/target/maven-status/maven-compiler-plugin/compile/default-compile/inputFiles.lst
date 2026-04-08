@@ -1,4 +1,10 @@
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\config\SecurityConfig.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\controller\AuthController.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\ApplicationRequest.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\AuthResponse.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\JobPostingRequest.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\LoginRequest.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\RegisterRequest.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\entity\Application.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\entity\Candidate.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\entity\Company.java
@@ -11,7 +17,9 @@ C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobb
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\JobPostingRepository.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\repository\UserRepository.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\ApplicationService.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\AuthService.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\CandidateService.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\CompanyService.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\JobPostingService.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\service\UserService.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\util\JwtUtil.java
