@@ -1,6 +1,7 @@
 com\jobboard\dto\AuthResponse.class
 com\jobboard\config\SecurityConfig.class
 com\jobboard\repository\ApplicationRepository.class
+com\jobboard\controller\ApplicationController.class
 com\jobboard\repository\UserRepository.class
 com\jobboard\dto\RegisterRequest.class
 com\jobboard\service\ApplicationService.class
@@ -14,6 +15,7 @@ com\jobboard\dto\JobPostingRequest.class
 com\jobboard\entity\Candidate.class
 com\jobboard\entity\JobPosting$PositionType.class
 com\jobboard\service\UserService.class
+com\jobboard\controller\JobPostingController.class
 com\jobboard\entity\JobPosting.class
 com\jobboard\repository\JobPostingRepository.class
 com\jobboard\dto\LoginRequest.class

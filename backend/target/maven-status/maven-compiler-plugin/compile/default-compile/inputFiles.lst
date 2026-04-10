@@ -1,5 +1,7 @@
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\config\SecurityConfig.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\controller\ApplicationController.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\controller\AuthController.java
+C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\controller\JobPostingController.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\ApplicationRequest.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\AuthResponse.java
 C:\Users\beyza\OneDrive\Belgeler\GitHub\job-board\backend\src\main\java\com\jobboard\dto\JobPostingRequest.java

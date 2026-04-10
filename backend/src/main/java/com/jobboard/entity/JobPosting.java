@@ -26,9 +26,9 @@ public class JobPosting {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "company_id", nullable = false)
-    private Company company;
+   @ManyToOne(fetch = FetchType.LAZY)
+@JoinColumn(name = "company_id", nullable = false)
+private Company company;
 
     @NotBlank(message = "Title is required")
     @Size(max = 150, message = "Title must be less than 150 characters")
