@@ -7,6 +7,7 @@ com\jobboard\dto\RegisterRequest.class
 com\jobboard\service\ApplicationService.class
 com\jobboard\repository\CompanyRepository.class
 com\jobboard\service\CompanyService.class
+com\jobboard\config\JwtAuthenticationFilter.class
 com\jobboard\service\AuthService.class
 com\jobboard\entity\Company.class
 com\jobboard\JobboardApplication.class
